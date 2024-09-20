@@ -1,0 +1,4 @@
+# ignore Compute Folder
+Compute/
+# ignore Data Folder
+catalog/
