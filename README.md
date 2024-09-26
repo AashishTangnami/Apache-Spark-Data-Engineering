@@ -2,3 +2,6 @@
 
 This project was built in Databricks.
 This project mimics the workflow of databricks but locally.
+
+This project is architectured in Factory Pattern Design Principle.
+ 
